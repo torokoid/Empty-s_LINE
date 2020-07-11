@@ -65,15 +65,15 @@ body::before {
   モバイル端末をお使いの場合は、画面を横向きにするとより見やすくご覧頂けます。</span>
 </p>
 
-<body onload="alert('エンプティーズ と レプレッションズ、忘年会の記録へようこそ！')" onunload="alert('再会の時まで、元気でお過ごしくださいませ。またやりましょう〜(^o^)/')">
+<body onload="alert('エンプティーズ と レプレッションズ、学生時代の記録へようこそ！')" onunload="alert('再会の時まで、元気でお過ごしくださいませ。またやりましょう〜(^o^)/')">
 <h1><span class="yellow"><marquee behavior="alternate">!!! Empty's & Lepression's !!!</marquee></span></h1>
-<p align="right">2019、河口湖忘年会</p>
+<p align="right">1982、青森ねぶた祭り＠東海林の実家</p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<p align="left"> <img src="qr.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
+<p align="left"> <img src="qr_.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 	
 	
-<h2><span class="yellow"><marquee behavior="alternate">!!! 2020年12月5日、いつもの河口湖!!!</marquee></span></h2>
+<h2><span class="yellow"><marquee behavior="alternate">!!! ムッチーが過去の写真を掘り起こしました!!!</marquee></span></h2>
 	
 <h3><span class="white">↓ 画像はクリックで拡大、スライドショー表示します。</span></h3>
 <section><h4><span class="red">2020年6月20日</span><span class="white"><br>ムッチ〜が昔の写真を披露しました。<br>
@@ -145,6 +145,8 @@ body::before {
 <script type='text/javascript' src='https://torokoid.github.io/shiba/jquery.js?ver=1.12.4'></script>
 <script src="https://torokoid.github.io/shiba/jquery.goup.min.js"></script>
 <script src="https://torokoid.github.io/shiba/my.js"></script> 
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <!-- フッタ -->
  <footer>
