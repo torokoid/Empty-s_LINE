@@ -106,7 +106,7 @@ body::before {
 <a href="https://torokoid.github.io/Empty-s/LINE17.jpg" data-lightbox="abc"><img src="https://torokoid.github.io/Empty-s/LINE17.jpg" alt="サンプル画像" width="900" /></a>
 <a href="https://torokoid.github.io/Empty-s/LINE18.jpg" data-lightbox="abc"><img src="https://torokoid.github.io/Empty-s/LINE18.jpg" alt="サンプル画像" width="900" /></a>
 <a href="https://torokoid.github.io/Empty-s/LINE19.jpg" data-lightbox="abc"><img src="https://torokoid.github.io/Empty-s/LINE19.jpg" alt="サンプル画像" width="900" /></a>
-<a href="https://torokoid.github.io/Empty-s/LINE20.jpg" data-lightbox="abc"><img src="https://torokoid.github.io/Empty-s/LINE20jpg" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/Empty-s/LINE20.jpg" data-lightbox="abc"><img src="https://torokoid.github.io/Empty-s/LINE20.jpg" alt="サンプル画像" width="900" /></a>
 
 <a href="https://torokoid.github.io/Empty-s/20200620_003.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/Empty-s/20200620_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="https://torokoid.github.io/Empty-s/19850706_001.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/Empty-s/19850706_001.JPG" alt="サンプル画像" width="900" /></a>
