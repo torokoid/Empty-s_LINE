@@ -76,8 +76,9 @@ body::before {
 	
 	
 <h2><span class="yellow"><marquee behavior="alternate">!!! ムッチーが過去の写真を掘り起こしました!!!</marquee></span></h2>
-	
+<!--	
 <h3><span class="white">↓ 画像はクリックで拡大、スライドショー表示します。</span></h3>
+-->
 <section><h4><span class="red">2020年6月20日</span><span class="white"><br>ムッチ〜が昔の写真を披露しました。<br>
 以下、LINE会話</span></h4></section>
 <a href="https://torokoid.github.io/Empty-s/20200620_001.png" data-lightbox="abc"><img src="https://torokoid.github.io/Empty-s/20200620_001.png" alt="サンプル画像" width="900" /></a>
