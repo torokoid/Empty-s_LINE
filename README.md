@@ -134,6 +134,8 @@ body::before {
 <a href="https://torokoid.github.io/Empty-s/1979_001.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/Empty-s/1979_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="https://torokoid.github.io/Empty-s/19850706_021.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/Empty-s/19850706_021.JPG" alt="サンプル画像" width="900" /></a>
 <a href="https://torokoid.github.io/Empty-s/19850706_022.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/Empty-s/19850706_022.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20200913_001.JPG" data-lightbox="abc"><img src="20200913_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20200913_002.JPG" data-lightbox="abc"><img src="20200913_002.JPG" alt="サンプル画像" width="900" /></a>
 
 
 
